@@ -22,13 +22,11 @@
 and it turns instructions into actions: schedule an event, create a task, draft an email, find a file, track a flight, write a
 contract, or move forward my job-search pipeline.
 
-## 💬 What it looks like on WhatsApp
+## 💬 How it behaves
 
-> Illustrative conversation in Brazilian Portuguese with fictional data.
-
-<img src="docs/img/briefing.png" width="380" alt="Morning briefing, calendar event creation and job-search status in WhatsApp">
-
-*07:00 daily briefing (weather, today's events by calendar, tasks, next 3 days). Then a natural-language instruction ("book the dentist tomorrow 3pm and invite Ana") becomes a calendar event in the right colored calendar, with a conflict check. Finally a status question about the job-search pipeline.*
+- **07:00 daily briefing**: weather, today's events by calendar, tasks and the next 3 days.
+- **Natural-language instructions** such as "book the dentist tomorrow 3pm and invite Ana" become a calendar event in the right colored calendar, after a conflict check.
+- **Status questions** about the job-search pipeline return the queue and what is waiting for approval.
 
 ## ✨ Capabilities
 
